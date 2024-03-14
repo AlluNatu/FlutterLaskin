@@ -1,6 +1,6 @@
-# untitled
+# Flutter Calculator
 
-A new Flutter project.
+This is a Flutter project I made for my UI-course. It is a calculator.
 
 ## Getting Started
 
